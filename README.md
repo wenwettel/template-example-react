@@ -1,3 +1,13 @@
+# Simple Example of React
+
+# Pre requisites
+
+node version >= 10
+
+# download
+
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
